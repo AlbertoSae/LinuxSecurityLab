@@ -37,7 +37,7 @@ El proyecto está dividido en módulos incrementales para facilitar su reproducc
 4. [**ACLs y Excepciones**](lab/04-acl.md): Casos de uso avanzados de acceso.
 5. [**Privilegios Sudo**](lab/05-sudoers.md): Delegación de tareas administrativas.
 
-> [!IMPORTANT]
+> [IMPORTANTE]
 > **Aviso de Seguridad:** Este laboratorio ha sido diseñado con fines exclusivamente educativos. Las contraseñas utilizadas son genéricas y el entorno está aislado de internet.
 
 ---
