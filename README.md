@@ -1,4 +1,8 @@
 # Linux Security Lab: Users, Groups & RBAC
+![Ubuntu Server 22.04](https://img.shields.io/badge/Ubuntu%20Server-22.04-E95420?logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kali-linux&logoColor=white)
+![Debian 12](https://img.shields.io/badge/Debian-12-A81D33?logo=debian&logoColor=white)
+
 
 Laboratorio avanzado de administración de sistemas Linux enfocado en el **Control de Acceso Basado en Roles (RBAC)**, seguridad de sistemas de archivos y segregación de funciones.
 
